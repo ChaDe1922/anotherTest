@@ -2,6 +2,9 @@
   "name": "ci-cd-sample-app-v2",
   "version": "1.0.0",
   "description": "Calculator",
+  "scripts": {
+    "build": "npx parcel build src/index.html"
+  },
   "devDependencies": {
     "@babel/core": "^7.20.5",
     "@babel/preset-env": "^7.20.2",
