@@ -1,0 +1,21 @@
+20
+56/home/codio/workspace/ci-cd-sample-app-v2/jest.config.js1684881460167397156 0
+56/home/codio/workspace/ci-cd-sample-app-v2/src/index.html1684861989281116915 0
+52/home/codio/workspace/ci-cd-sample-app-v2/src/app.js1684861989281116915 0
+45/home/codio/workspace/ci-cd-sample-app-v2/src1684861989281116915 1
+73/home/codio/workspace/ci-cd-sample-app-v2/.github/workflows/unitTests.yml1684979390944447359 0
+56/home/codio/workspace/ci-cd-sample-app-v2/.eslintrc.json1684861989281116915 0
+64/home/codio/workspace/ci-cd-sample-app-v2/__tests__/calc.test.js1684861989281116915 0
+55/home/codio/workspace/ci-cd-sample-app-v2/.eslintignore1684861989281116915 0
+50/home/codio/workspace/ci-cd-sample-app-v2/.babelrc1684861989281116915 0
+52/home/codio/workspace/ci-cd-sample-app-v2/.gitignore1684861989281116915 0
+54/home/codio/workspace/ci-cd-sample-app-v2/package.json1684876163045477746 0
+51/home/codio/workspace/ci-cd-sample-app-v2/README.md1684861989281116915 0
+49/home/codio/workspace/ci-cd-sample-app-v2/.github1684876428845717866 1
+57/home/codio/workspace/ci-cd-sample-app-v2/babel.config.js1684861989281116915 0
+41/home/codio/workspace/ci-cd-sample-app-v21684979546459887223 1
+51/home/codio/workspace/ci-cd-sample-app-v2/__tests__1684861989281116915 1
+68/home/codio/workspace/ci-cd-sample-app-v2/.github/workflows/cicd.yml1684876480468210294 0
+59/home/codio/workspace/ci-cd-sample-app-v2/.github/workflows1684979390944447359 1
+56/home/codio/workspace/ci-cd-sample-app-v2/src/styles.css1684861989281116915 0
+56/home/codio/workspace/ci-cd-sample-app-v2/emptyModule.js1684861989281116915 0
