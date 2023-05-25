@@ -14,9 +14,9 @@ jobs:                                       # create job called "test" to perfor
     - uses: actions/checkout@v3             # check out code from repository
     - name: Install dependencies            # install all dependencies needed for Unit Tests (ex. Jest) 
       run: npx yarn    
-    - uses: actions/download-artifact@v2    # download compiled code from build and make it available for Unit Tests 
+    - uses: actions/download-artifact@v3    # download compiled code from build and make it available for Unit Tests 
       with:
-        name: assets
+        # name: assets
         path: dist
     - name: Run Tests                       # run Unit Tests using Jest
       run: npx yarn test
