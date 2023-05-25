@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "Calculator",
   "scripts": {
-    "build": "npx parcel build src/index.html"
+    "build": "npx parcel build src/index.html",
+    "test": "jest"
   },
   "devDependencies": {
     "@babel/core": "^7.20.5",
