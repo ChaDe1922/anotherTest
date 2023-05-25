@@ -3,7 +3,7 @@ name: Unit Tests
 on:
   # the 1st condition
   workflow_run:                             # triggers when "build" runs and completes  
-    workflows: ["Build"]
+    workflows: ["build"]
     types:
       - completed
 
