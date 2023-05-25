@@ -1,5 +1,8 @@
 # ci-cd-sample-app-v2
 
+# Badges
+[![CI-CD](https://github.com/ChaDe1922/anotherTest/actions/workflows/cicd.yml/badge.svg)](https://github.com/ChaDe1922/anotherTest/actions/workflows/cicd.yml)
+
 # Release build
 
 ```parcel build src/index.html```
